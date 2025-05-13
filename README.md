@@ -1,2 +1,2 @@
 # mypokedex
-Pokedex Criada com Java-script afins didaticos 
+Pokedex criada com Java-script afins didaticos 
